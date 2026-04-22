@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NumaYay
-- 👀 I’m a data analyst consultant
-- 🌱 I’m currently learning Tableua, Power BI, Alteryx, and SQL
-- 💞️ I’m looking to collaborate on Power Query Data Prep
+- 👀 I’m a data analyst
+- 🌱 I’m skilled in Tableau, Power BI, Alteryx, and SQL
+- 💞️ 
 
 <!---
 NumaYay/NumaYay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
